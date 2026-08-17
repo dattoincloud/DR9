@@ -1,0 +1,9 @@
+# Access lock files are created while the database is open.
+App_Data/*.ldb
+App_Data/*.laccdb
+App_Data/*.backup.mdb
+App_Data/*.building.mdb
+
+# Local diagnostics.
+*.log
+*.tmp
